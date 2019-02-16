@@ -8,7 +8,7 @@ https://trello.com/b/kyECERfy/pearl-hacks19
 - Chantal:
   - ~1:30pm-2:15pm APIs~
   - ~2:30pm-3:15pm Firebase~
-  - 4:30pm-5:15pm Alexa
+  - ~4:30pm-5:15pm Alexa~
   - 5:30pm-6:15pm Cordova
   - 8:30pm-9:15pm NLP
 - Nidhi:
