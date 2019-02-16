@@ -21,7 +21,7 @@ https://trello.com/b/kyECERfy/pearl-hacks19
   - 6:30pm-7:15pm IOS (?)
   - 8:30pm-9:15pm NLP
   
-**dinner at 6:30pm
+**dinner at 6:30pm**
 
 
 # data
