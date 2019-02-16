@@ -19,3 +19,12 @@ https://trello.com/b/kyECERfy/pearl-hacks19
   - 3pm-3:45pm Cordova
   - 6pm-6:45pm IOS
   - 8:30pm-9:15pm NLP
+
+
+# data
+Dataset from:
+https://exhibits.stanford.edu/data/catalog/tb980qz1002
+
+Citation:
+
+Huizhong Chen, Andrew Gallagher, and Bernd Girod, "Describing Clothing by Semantic Attributes", European Conference on Computer Vision (ECCV), October 2012.
