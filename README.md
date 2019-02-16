@@ -6,18 +6,18 @@ https://trello.com/b/kyECERfy/pearl-hacks19
 
 # Workshop Schedules
 - Chantal:
-  - 1pm-1:45pm APIs
-  - 2pm-2:45pm Firebase
-  - 4pm-4:45pm Alexa
-  - 5pm-5:45pm Cordova
+  - ~1:30pm-2:15pm APIs~
+  - 2:30pm-3:15pm Firebase
+  - 4:30pm-5:15pm Alexa
+  - 5:30pm-6:15pm Cordova
   - 8:30pm-9:15pm NLP
 - Nidhi:
-  - 4pm-4:45 Alexa
-  - 6pm-6:45pm IOS
+  - 4:30pm-5:15pm Alexa
+  - 6:30pm-7:15pm IOS
   - 8:30pm-9:15pm NLP
 - Mary: 
-  - 3pm-3:45pm Cordova
-  - 6pm-6:45pm IOS
+  - 3:30pm-4:15pm Cordova
+  - 6:30pm-7:15pm IOS
   - 8:30pm-9:15pm NLP
 
 
