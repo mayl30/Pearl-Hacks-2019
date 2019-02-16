@@ -1,5 +1,7 @@
 {
   "name": "read-your-closet",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
