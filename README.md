@@ -12,7 +12,6 @@ https://trello.com/b/kyECERfy/pearl-hacks19
   - 5pm-5:45pm Cordova
   - 8:30pm-9:15pm NLP
 - Nidhi:
-  - 3pm-3:45pm Cordova
   - 4pm-4:45 Alexa
   - 6pm-6:45pm IOS
   - 8:30pm-9:15pm NLP
