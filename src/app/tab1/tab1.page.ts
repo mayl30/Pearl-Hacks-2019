@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { Camera, CameraOptions } from '@ionic-native/camera/ngx';
 import { Window } from 'selenium-webdriver';
+import { File } from 'ionic-native';
 
 @Component({
   selector: 'app-tab1',
