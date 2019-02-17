@@ -34,7 +34,6 @@ export class Tab1Page {
      // imageData is either a base64 encoded string or a file URI
      // If it's base64 (DATA_URL):
      this.myphoto = 'data:image/jpeg;base64,' + imageData;
-     
     }, (err) => {
      // Handle error
     });
