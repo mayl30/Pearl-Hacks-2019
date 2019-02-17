@@ -8,10 +8,9 @@
 
 <ion-content class="body">
 
-    <ion-row>
-        <ion-col text-center>
-            Check out your closet!
-        </ion-col>
-      </ion-row>
-
+<ion-content>
+    <img *ngIf="myphoto" src="{{myphoto}}"/> 
+  <ion-label text-center>
+    Check out your closet!
+  </ion-label>
 </ion-content>
