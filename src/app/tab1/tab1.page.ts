@@ -7,6 +7,8 @@ import { Window } from 'selenium-webdriver';
   templateUrl: 'tab1.page.html',
   styleUrls: ['tab1.page.scss']
 })
+
+
 export class Tab1Page {
   myphoto: any;
   window: Window;
