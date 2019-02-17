@@ -9,5 +9,9 @@
 <ion-content class="home-page-text">
     <ion-label> 
       [picture here]
+      
     </ion-label>
+    <img *ngIf="myphoto" src="{{myphoto}}"/> 
+    <button ion-button (click)="openCamera()">Open cam</button>
+   
 </ion-content>
